@@ -15,7 +15,7 @@ in project-6\node_modules
 # Solidity v0.4.24 (solc-js)
 ```
 #### 3. IPFS
-no use so far
+Not used so far
 
 ### Part 2: write smart contracts
 
@@ -39,8 +39,8 @@ We successfuly deployed our contract to rinkeby test network
 ![rinkeby deployment: ](https://github.com/quidba7/blockchain_project_3/project-6/pictures/rinkeby_deployment.PNG)
 #### 2. Submit contract address
 We only show contract and transaction hash of the SupplyChain contract.
-contract SupplyChain ['0x73ec3678b892ab7239f636475463ff8da4696e8f'](https://rinkeby.etherscan.io/address/0x73ec3678b892ab7239f636475463ff8da4696e8f)
-transaction for deploying SupplyChain: ['0xf41cc443fddc569bc913e1589d8ca047d1e93d3ad25f300fb03f865b95f79e9d']https://rinkeby.etherscan.io/tx/0xf41cc443fddc569bc913e1589d8ca047d1e93d3ad25f300fb03f865b95f79e9d)
+    - contract SupplyChain ['0x73ec3678b892ab7239f636475463ff8da4696e8f'](https://rinkeby.etherscan.io/address/0x73ec3678b892ab7239f636475463ff8da4696e8f)
+    - transaction for deploying SupplyChain: ['0xf41cc443fddc569bc913e1589d8ca047d1e93d3ad25f300fb03f865b95f79e9d']https://rinkeby.etherscan.io/tx/0xf41cc443fddc569bc913e1589d8ca047d1e93d3ad25f300fb03f865b95f79e9d)
 
 ### Part 5: Modify client code to interact with smart contract
 
