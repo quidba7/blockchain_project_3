@@ -175,7 +175,8 @@ App = {
                 App.originFarmInformation, 
                 App.originFarmLatitude, 
                 App.originFarmLongitude, 
-                App.productNotes
+                App.productNotes,
+                {from: App.metamaskAccountID}
             );
         }).then(function(result) {
             $("#ftc-item").text(result);

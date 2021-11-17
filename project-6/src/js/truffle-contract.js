@@ -26,6 +26,7 @@ var contract = (function(module) {
   };
 
   var BigNumber = (new Web3()).toBigNumber(0).constructor;
+  // var BigNumber = web3.utils.toBN(0);
 
   var Utils = {
     is_object: function(val) {
